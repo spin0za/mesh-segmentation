@@ -1,5 +1,3 @@
-![Alt text](/
-
 # Mesh Segmentation
 
 A tool for cutting a closed surface (represented as triangular mesh) at a user defined position. It is an implementation of the paper *Mesh Decomposition with Cross-Boundary Brushes* by Youyi Zheng and Chiew-Lan Tai (Eurographics 2010).
