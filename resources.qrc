@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/open.png</file>
+        <file>images/texture.png</file>
+        <file>images/points.png</file>
+        <file>images/wireframe.png</file>
+        <file>images/flatlines.png</file>
+        <file>images/flat.png</file>
+        <file>images/smooth.png</file>
+        <file>images/select.png</file>
+        <file>images/xcut.png</file>
+        <file>images/ycut.png</file>
+        <file>images/zcut.png</file>
+        <file>images/boundary.png</file>
+        <file>images/bunny-alpha0.png</file>
+        <file>images/select.png</file>
+        <file>images/feature.png</file>
+        <file>images/align.png</file>
+        <file>images/switch.png</file>
+        <file>images/paint.png</file>
+        <file>images/brush.png</file>
+        <file>images/unpaint.png</file>
+        <file>images/remove.png</file>
+        <file>images/transparent.png</file>
+        <file>images/camera.png</file>
+        <file>images/render.png</file>
+        <file>images/show-iso.png</file>
+        <file>images/cut.png</file>
+        <file>images/cross48.png</file>
+    </qresource>
+</RCC>
