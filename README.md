@@ -1,3 +1,4 @@
+![Alt text](/
 
 # Mesh Segmentation
 
@@ -28,3 +29,7 @@ Defines toolbar buttons and display options.
 ### functions.h/.cpp
 
 A collection of some commonly used methods.
+
+## Screenshot
+
+![Alt text](https://raw.githubusercontent.com/spin0za/mesh-segmentation/master/screenshot.png)
