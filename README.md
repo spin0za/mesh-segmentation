@@ -1,5 +1,8 @@
 # Mesh Segmentation
 
+## Demo
+![Alt text](https://github.com/spin0za/mesh-segmentation/blob/master/demo.gif?raw=true)
+
 A tool for cutting a closed surface (represented as triangular mesh) at a user defined position. It is an implementation of the paper [Mesh Decomposition with Cross-Boundary Brushes](http://visgraph.cse.ust.hk/projects/segmentation/) by Youyi Zheng and Chiew-Lan Tai (Eurographics 2010).
 
 ## Libraries
@@ -27,6 +30,3 @@ Defines toolbar buttons and display options.
 ### functions.h/.cpp
 
 A collection of some commonly used methods.
-
-## Demo
-![Alt text](https://github.com/spin0za/mesh-segmentation/blob/master/demo.gif?raw=true)
