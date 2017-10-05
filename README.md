@@ -29,4 +29,4 @@ Defines toolbar buttons and display options.
 A collection of some commonly used methods.
 
 ## Demo
-![Alt text](https://raw.githubusercontent.com/spin0za/mesh-segmentation/blob/master/demo.gif)
+![Alt text](https://github.com/spin0za/mesh-segmentation/blob/master/demo.gif?raw=true)
