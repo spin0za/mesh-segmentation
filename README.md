@@ -28,6 +28,5 @@ Defines toolbar buttons and display options.
 
 A collection of some commonly used methods.
 
-## Screenshot
-
-![Alt text](https://raw.githubusercontent.com/spin0za/mesh-segmentation/master/screenshot.png)
+## Demo
+![Alt text](https://raw.githubusercontent.com/spin0za/mesh-segmentation/blob/master/demo.gif)
